@@ -101,7 +101,78 @@ VMware Virtual Machine 생성
 
 <br>
 
+### 5. 사용자 생성 완료 후 접속해보기
+|-|
+|-|
+|![스크린샷 2024-06-07 103805](https://github.com/silverywaves/LINUX/assets/155939946/d2d520c4-85b0-4db0-baf6-dd73d3c3c14d)
+|![스크린샷 2024-06-07 103931](https://github.com/silverywaves/LINUX/assets/155939946/94724d53-0e30-4ba5-b3b9-c27a7d9cdffb)
+|![스크린샷 2024-06-07 104102](https://github.com/silverywaves/LINUX/assets/155939946/ce8fae3d-e8d1-4a27-b8fb-8689a2ae29f0)|
 
+<br>
+
+### 6. 가상머신 네트워크 셋팅
+|Edit → Virtual Network Editor|
+|-|
+|Change Settings|
+|![스크린샷 2024-06-07 104215](https://github.com/silverywaves/LINUX/assets/155939946/20b36593-ad3d-45c1-8153-72e9613a3837)|
+|![스크린샷 2024-06-07 104236](https://github.com/silverywaves/LINUX/assets/155939946/0c7bff29-0088-4af8-8cdb-c7e814a7ed81)|
+|![스크린샷 2024-06-07 104513](https://github.com/silverywaves/LINUX/assets/155939946/965d3cb7-c405-4e3b-9683-c7ae264ad7f1)|
+|![스크린샷 2024-06-07 104522](https://github.com/silverywaves/LINUX/assets/155939946/b021371d-075e-486d-9911-2f54c6f7bd8c)|
+|![스크린샷 2024-06-07 105105](https://github.com/silverywaves/LINUX/assets/155939946/9be74907-bcb3-49f3-aff5-45659416dfc8)|
+|접속확인해보기|
+|![스크린샷 2024-06-07 105036](https://github.com/silverywaves/LINUX/assets/155939946/5d53301b-3722-45d9-aca3-a30772c8d488)|
+|![스크린샷 2024-06-07 105135](https://github.com/silverywaves/LINUX/assets/155939946/c058641e-eb6f-42f7-8229-ee5e8436e4a8)|
+
+
+<br>
+
+> DNS
+
+|-|
+|-|
+|![스크린샷 2024-06-07 105758](https://github.com/silverywaves/LINUX/assets/155939946/46122b6e-0eaa-44bd-b60f-d0070559e75a)|
+
+
+<br>
+
+### 7. 복구(Snapshot)
+|-|
+|-|
+|LINUX_SERVER 탭 우클릭 → Snapshot → Take Snapshot|
+|![스크린샷 2024-06-07 110724](https://github.com/silverywaves/LINUX/assets/155939946/9a32c318-2aa2-40b4-b823-1269192c5a8c)|
+|문제 발생시 스냅샷 선택하면 해당 시점으로 돌아감|
+
+<br>
+
+원격통신툴 PuTTY
+---
+### 1. [PuTTY](https://www.putty.org/) 설치
+> 서브컴퓨터 작동 전제
+
+|-|
+|-|
+|![스크린샷 2024-06-07 111248](https://github.com/silverywaves/LINUX/assets/155939946/2f35e8be-75f1-4514-9881-79d6ab72fa94)|
+|![스크린샷 2024-06-07 111314](https://github.com/silverywaves/LINUX/assets/155939946/8e9e659e-118b-4565-a7a2-78ed55d1d406)|
+
+
+<br>
+
+### 2. 셋팅 및 실행
+|-|
+|-|
+|![스크린샷 2024-06-07 111712](https://github.com/silverywaves/LINUX/assets/155939946/dfbed0bd-d936-4b10-a3dd-192b11fbed0d)|
+|![스크린샷 2024-06-07 111745](https://github.com/silverywaves/LINUX/assets/155939946/84e73c2f-cc7e-4f5b-8877-4c4721ee0d1f)|
+|![스크린샷 2024-06-07 111805](https://github.com/silverywaves/LINUX/assets/155939946/f7dedf50-76bc-4e7b-aef8-a7d7e0006b4b)|
+|![스크린샷 2024-06-07 111901](https://github.com/silverywaves/LINUX/assets/155939946/f3a4fc1d-10f6-4339-8867-a6773e94504c)|
+
+<br>
+
+> 화면 변경
+
+|-|
+|-|
+|![스크린샷 2024-06-07 112006](https://github.com/silverywaves/LINUX/assets/155939946/a90e06a2-72c0-413b-9384-529488c4f415)|
+|![스크린샷 2024-06-07 112104](https://github.com/silverywaves/LINUX/assets/155939946/6bcfddbe-7c62-47eb-8d0c-2100fe0b3b4c)|
 
 
 

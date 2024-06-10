@@ -13,7 +13,7 @@
 
 01
 ---
-> 패스워드 변경
+> Passwd : 패스워드 변경
 ```
   Passwd : 접속중인 사용자 패스워드 변경	(비밀번호 최소 6자리 root는 예외)
   Passwd [계정명] 해당 계정 pw 변경
@@ -90,7 +90,7 @@
 
 02
 ---
-> 네트워크 확인 명령어 = 인터페이스Config (IP 정보 확인시 사용)
+> ifconfig : 네트워크 확인 명령어 = 인터페이스Config (IP 정보 확인시 사용)
 ```
   ifconfig
 ```
@@ -111,7 +111,7 @@
 
 <br>
 
-> 현재 위치 확인 명령어(Print Working Directory)
+> pwd : 현재 위치 확인 명령어(Print Working Directory)
 ```
   pwd
 ```
@@ -128,7 +128,7 @@
 
 <br>
 
-> 디렉토리 변경 명령어 = 작업 경로 이동(Change Directory)
+> cd : 디렉토리 변경 명령어 = 작업 경로 이동(Change Directory)
 >> 절대 경로 : /(최상위 디렉토리) 가 기준 ⇒ / (최상위경로)를 기준 모든 하위경로를 포함
 ```
   cd [절대경로]  절대경로로 이동
@@ -244,7 +244,7 @@
 
 03
 ---
-> 파일&디렉토리 목록 출력
+> ls : 파일&디렉토리 목록 출력
 ```
   ls [옵션] [경로]
   
@@ -274,7 +274,7 @@
 
 <br>
 
-> 디렉토리 생성 명령어(Make Directory)
+> mkdir : 디렉토리 생성 명령어(Make Directory)
 ```
   mkdir [옵션]
 
@@ -294,14 +294,16 @@
   Mkdir -p /home/test/c/d/
 ```
 
-> 명령어 정보 확인(manual)
+<br>
+
+> man : 명령어 정보 확인(manual)
 ```
   man
 ```
 
 <br>
 
-> 파일생성, 파일의 시간을 변경
+> touch : 파일생성, 파일의 시간을 변경
 ```
   touch 파일명
   touch [옵션] [변경내용]
@@ -329,7 +331,7 @@
 
 <br>
 
-> 복사(copy)
+> cp : 복사(copy)
 ```
   cp [옵션]
 

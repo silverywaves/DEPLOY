@@ -158,6 +158,8 @@ VI(Visual Editor)
   vi login.defs  passwd
   
   :N,:n으로 전환
+  :set number 행번호 붙이기
+  :set nonumber  행번호 없애기
 ```
 
 <br>

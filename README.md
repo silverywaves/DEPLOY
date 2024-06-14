@@ -1,6 +1,6 @@
 # DEPLOY
 
-|목차|LINK|
+|TITLE|LINK|
 |-|-|
 |LINUX|[바로가기](./01_LINUX)|
 |JENKINS DEPLOY|[바로가기](./02_JENKINS)|

@@ -82,11 +82,6 @@ SWAP 설정
   free
 ```
 
-|-|
-|-|
-|![스크린샷 2024-06-14 095215](https://github.com/silverywaves/DEPLOY/assets/155939946/232e8a4b-353e-4352-8ba2-653ba2943846)|
-
-
 </details>
 
 <br>
@@ -106,9 +101,12 @@ SWAP 설정
 
 [mySQL](https://dev.mysql.com/downloads/)
 ---
+|설치 과정|
 |-|
-|-|
-|-|
+|![스크린샷 2024-06-14 101249](https://github.com/silverywaves/DEPLOY/assets/155939946/e27f1dd3-54ce-4a72-b4cc-9340ad680b53)|
+|![스크린샷 2024-06-14 101312](https://github.com/silverywaves/DEPLOY/assets/155939946/01c8e067-4416-40c7-a957-24b0654a5c91)|
+|![스크린샷 2024-06-14 101340](https://github.com/silverywaves/DEPLOY/assets/155939946/2f2cbf35-eeec-43b1-8e19-aa5cae12becc)|
+|![스크린샷 2024-06-14 101402](https://github.com/silverywaves/DEPLOY/assets/155939946/1d4005df-b916-43b6-9716-d7587d428368)|
 
 </details>
 
